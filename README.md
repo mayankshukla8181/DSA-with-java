@@ -16,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Math
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/mayankshukla8181/DSA-with-java/tree/master/2485-find-the-pivot-integer) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/mayankshukla8181/DSA-with-java/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
