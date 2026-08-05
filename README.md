@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0054-spiral-matrix) |
+| [0704-binary-search](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0867-transpose-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
