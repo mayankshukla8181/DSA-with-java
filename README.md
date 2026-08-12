@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0054-spiral-matrix) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
