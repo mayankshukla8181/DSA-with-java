@@ -6,34 +6,34 @@ class Solution {
 
         while (start <= end) {
 
-            int mid = start + (end - start) / 2;
+            int mid = (start + end) / 2;
 
             // Target found
             if (nums[mid] == target) {
                 return mid;
             }
 
-            // Left half is sorted
+            // Left side is sorted
             if (nums[start] <= nums[mid]) {
 
-                // Target lies in left sorted half
+                // Target is inside left side
                 if (nums[start] <= target && target < nums[mid]) {
                     end = mid - 1;
-                } 
-                // Target lies in right half
+                }
+                // Target is in right side
                 else {
                     start = mid + 1;
                 }
-
             }
-            // Right half is sorted
+
+            // Right side is sorted
             else {
 
-                // Target lies in right sorted half
+                // Target is inside right side
                 if (nums[mid] < target && target <= nums[end]) {
                     start = mid + 1;
-                } 
-                // Target lies in left half
+                }
+                // Target is in left side
                 else {
                     end = mid - 1;
                 }
