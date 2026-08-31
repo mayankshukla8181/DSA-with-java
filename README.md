@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0867-transpose-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/mayankshukla8181/DSA-with-java/tree/master/2643-row-with-maximum-ones) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0867-transpose-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/mayankshukla8181/DSA-with-java/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
 |  |
 | ------- |
