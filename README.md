@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0151-reverse-words-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
