@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0867-transpose-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/mayankshukla8181/DSA-with-java/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,4 +84,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0151-reverse-words-in-a-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/mayankshukla8181/DSA-with-java/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/mayankshukla8181/DSA-with-java/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
