@@ -23,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0001-two-sum) |
+| [0567-permutation-in-string](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0151-reverse-words-in-a-string) |
+| [0567-permutation-in-string](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
@@ -84,9 +86,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0151-reverse-words-in-a-string) |
+| [0567-permutation-in-string](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/mayankshukla8181/DSA-with-java/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/mayankshukla8181/DSA-with-java/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
