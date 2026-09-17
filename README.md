@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0509-fibonacci-number) |
 | [2485-find-the-pivot-integer](https://github.com/mayankshukla8181/DSA-with-java/tree/master/2485-find-the-pivot-integer) |
 ## Prefix Sum
@@ -105,9 +106,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/mayankshukla8181/DSA-with-java/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
